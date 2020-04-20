@@ -1,0 +1,13 @@
+.root {
+    -fx-background-image: url("../pictures/111.png") ;
+    -fx-background-size: cover;
+
+}
+
+.button{
+    -fx-background-color : transparent;
+    -fx-border-color : grey;
+    -fx-border-width : 2px 2px 2px 2px;
+    -fx-border-radius : 6;
+    -fx-font-family : "Microsoft YaHei UI";
+}
