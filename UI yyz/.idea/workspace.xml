@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="328587cf-818b-4db3-b16d-692348dbfe28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/UI yyz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI yyz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/.idea/libraries/javafx_swt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/SceneBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/UI Design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/UI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/SceneBuilder/sample/ItemResult.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI yyz/sample/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI yyz/sample/SearchPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI yyz/sample/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI yyz/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/controllers/ControllerOfSearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/controllers/ControllerOfTagsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/css/SearchPageStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/css/TagsPageStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/fxml/SearchPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/fxml/TagsPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/fxml/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/out/production/UI/sample/pictures/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/controllers/ControllerOfItemResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/controllers/ControllerOfSearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/controllers/ControllerOfTagsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/css/SearchPageStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/css/TagsPageStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/fxml/ItemResult.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/fxml/SearchPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/fxml/TagsPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/fxml/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UI Design/src/sample/pictures/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/ItemResult.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/SearchPage.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ao8E2NXaLOsaU8AC9U6p93UKpN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="328587cf-818b-4db3-b16d-692348dbfe28" name="Default Changelist" comment="" />
+      <created>1587390470156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587390470156</updated>
+      <workItem from="1587390471705" duration="1975000" />
+      <workItem from="1587394248182" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1587390659599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587390659599" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587394444964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587394444964" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587394257321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587394257321" />
+  </component>
+</project>
