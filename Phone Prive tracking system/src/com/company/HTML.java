@@ -6,7 +6,7 @@ public class HTML {
     public static String html(String key){
 
         if(key.equals("XS")) {
-            String IphoneXS = new String("https://www.amazon.co.uk/dp/B07HKDK315/ref=uk_a_phone11_4");
+            String IphoneXS = new String("https://www.currys.co.uk/gbuk/phones-broadband-and-sat-nav/mobile-phones-and-accessories/mobile-phones/apple-iphone-se-64-gb-black-10204868-pdt.html");
             return IphoneXS;
         }
 

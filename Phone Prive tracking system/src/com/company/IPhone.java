@@ -1,5 +1,7 @@
 package com.company;
 
+import net.sf.json.JSONObject;
+
 import javax.swing.text.html.HTML;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -7,6 +9,8 @@ import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Base64;
+
+import net.sf.json.JSONObject;
 
 public class IPhone {
 
@@ -51,25 +55,45 @@ public class IPhone {
                 content.append(inputLine);
             }
             String jsonResponse = content.toString();
+            System.out.println(jsonResponse);
 
-            //System.out.println(jsonResponse);
-            String[] json = jsonResponse.split(",");
-            String model = json[1].substring(16);
-            System.out.println("    model:" + model);
+            JSONObject json2 = JSONObject.fromObject(jsonResponse);
 
-            String image = json[3];
-            System.out.println("    " + image);
-
-            String price = json[4].substring(8);
-            System.out.println("    price: £" + price);
-
-
-            String siteURL = json[15];
-            System.out.println("    " + siteURL);
+            String data=json2.getString("data");
+            JSONObject json3= JSONObject.fromObject(data);
+            String title=json3.getString("title");
+            String price=json3.getString("price");
+            String siteURL=json3.getString("siteURL");
+            String host=json3.getString("host");
 
 
-            String description = json[26].substring(17);
-            System.out.println("    description:" + description);
+
+            System.out.println(title);
+            System.out.println(price);
+            System.out.println(siteURL);
+            System.out.println(host);
+
+
+
+
+
+//            String[] json = jsonResponse.split(",");
+//            String model = json[1].substring(16);
+//            System.out.println("    model:" + model);
+//
+//            String image = json[3];
+//            System.out.println("    " + image);
+//
+//            String price = json[4].substring(8);
+//            System.out.println("    price: £" + price);
+//
+//
+//            String siteURL = json[15];
+//            System.out.println("    " + siteURL);
+//
+//
+//            String description = json[26].substring(17);
+//            System.out.println("    description:" + description);
 
 
             in.close();
